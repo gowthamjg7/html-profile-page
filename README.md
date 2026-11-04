@@ -1,38 +1,34 @@
-Personal Profile Page
+# Personal Profile Page
 
-A simple and structured personal profile webpage built using Semantic HTML5.
+A simple and structured personal profile webpage built using **Semantic HTML5**.
 
-About the Project
+## About the Project
 
 This project is my first HTML practice assignment as part of my Python Full Stack Development learning journey.
 
 The webpage introduces my professional profile, skills, and contact information using semantic HTML elements.
 
-Technologies Used
+## Technologies Used
 
-HTML5
+- HTML5
+- Semantic HTML
+- HTML Forms and Attributes
 
-Semantic HTML
+## Features
 
-HTML Forms and Attributes
+- Personal introduction
+- Profile header with name and designation
+- Skills section using an unordered list
+- Contact information
+- LinkedIn profile link
+- Structured semantic HTML elements
 
-Features
+## Project Structure
 
-Personal introduction
-
-Profile header with name and designation
-
-Skills section using an unordered list
-
-Contact information
-
-LinkedIn profile link
-
-Structured semantic HTML elements
-
-Project Structure
-
+```text
 personal-profile-page/
 │
 ├── index.html
 └── README.md
+```
+
